@@ -1,0 +1,61 @@
+/* Logo resmini ortala */
+img {
+    display: block;
+    margin: 0 auto;
+    width: 272px;
+    height: 92px;
+  }
+  
+  /* Ana tablo */
+  table {
+    margin: 0 auto;
+    width: 600px;
+    font-size: 16px;
+    text-align: left;
+    border-collapse: collapse;
+  }
+  
+  /* Tablo satırları */
+.Search {
+    display: inline-block;
+    text-align: center;
+    background-color: #f2f2f2;
+    font-weight: bold;
+    color: #70757a;
+  }
+  
+  tr td {
+    padding: 10px;
+  }
+  
+  /* Tablo hücreleri */
+  td.td1 {
+    background-color: #f2f2f2;
+    color: #70757a;
+    width: 200px;
+    vertical-align: top;
+  }
+  
+  td.td2 {
+    background-color: #f2f2f2;
+    color: #70757a;
+    width: 200px;
+    vertical-align: top;
+  }
+  
+  td.td3 {
+    background-color: #f2f2f2;
+    color: #70757a;
+    width: 200px;
+    vertical-align: top;
+  }
+  
+  /* Footer */
+  footer {
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: center;
+  }
+  nav{
+    text-align: center;
+  }
